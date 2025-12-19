@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+trl
+peft
+bitsandbytes
+accelerate
+pyyaml
+optimum
+# auto-gptq
+tensorboard

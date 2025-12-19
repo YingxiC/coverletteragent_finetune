@@ -1,0 +1,5 @@
+streamlit
+openai>=1.40.0
+pydantic
+python-docx
+pdfplumber
